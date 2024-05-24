@@ -25,9 +25,12 @@
 * `6 Funcion:` Mostrar libros por un determinado idioma desplegando otro menu para elegir un idioma predeterminado
 * `7 Funcion:` Elegir top 10 libros mas descargados y mostrarlos en la consola
 
-## Herramientas utilizadas
+## Herramientas
 * API Gutendex
 * Spring Boot
 * PostgreSQL
 * Spring Data JPA
 * Maven
+
+## Creador
+* Javier González Porras
